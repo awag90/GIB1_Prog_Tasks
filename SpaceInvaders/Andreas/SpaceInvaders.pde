@@ -1,6 +1,4 @@
 /* //<>//
-Author: Andreas Wagner
-Matrikelnummer: 301730
 
 Lernfragen:
 

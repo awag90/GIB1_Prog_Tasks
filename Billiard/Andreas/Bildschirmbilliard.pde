@@ -1,9 +1,5 @@
 /*
- Author: Andreas Wagner
- Matrikelnummer: 301730
- Version: 2
- 
- 
+
  zu 1.)
  
    Relationale Operatoren:
